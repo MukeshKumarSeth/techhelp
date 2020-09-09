@@ -1,6 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
-import logo from '../images/home_img2.png';
+import logo from '../images/logo.svg';
 import Common from './common';
 
 const Home = ()=>{

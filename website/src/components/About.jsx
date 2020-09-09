@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../images/home_img2.png';
+import logo from '../images/group.png';
 import Common from './common';
 
 const About = ()=>{

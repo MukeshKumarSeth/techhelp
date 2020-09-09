@@ -1,6 +1,5 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import logo from '../images/home_img2.png';
 
 const Common = (props)=>{
     return (
@@ -12,7 +11,7 @@ const Common = (props)=>{
                         <div className="row">
                             <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1">
                                 <h1>
-                                {props.pageTitle} <strong className="brand-name">TechHelp</strong>
+                                {props.pageTitle} <span className="brand-name">TechHelp</span>
                                 </h1>
                                 <h4 className="my-3">
                                     We are the team of talented developers making websites
