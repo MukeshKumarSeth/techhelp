@@ -19,7 +19,7 @@ app.use(router);
 
 
 
-global.__basePath = __dirname;//to create global path for uploads etc
+//global.__basePath = __dirname;//to create global path for uploads etc
 app.listen(3002,()=>{
     console.log('server started on 3002');
 })
