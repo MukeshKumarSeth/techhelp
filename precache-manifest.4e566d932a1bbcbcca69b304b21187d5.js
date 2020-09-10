@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b80c378202aaf7ef558e1461a4a49eaf",
+    "revision": "020ff7b4086c4d3fae38867570272008",
     "url": "/techhelp/index.html"
   },
   {
-    "revision": "09ea3b0ae12573808549",
+    "revision": "b8441426c078b35d5bd8",
     "url": "/techhelp/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "b6358723340bf2b5db9c",
+    "revision": "0863504f96734ae749d1",
     "url": "/techhelp/static/css/main.9ba02cc4.chunk.css"
   },
   {
-    "revision": "09ea3b0ae12573808549",
-    "url": "/techhelp/static/js/2.d3c0172a.chunk.js"
+    "revision": "b8441426c078b35d5bd8",
+    "url": "/techhelp/static/js/2.68a5b08b.chunk.js"
   },
   {
     "revision": "361388382a7cba0b7cd58ae9b81faa0e",
-    "url": "/techhelp/static/js/2.d3c0172a.chunk.js.LICENSE.txt"
+    "url": "/techhelp/static/js/2.68a5b08b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b6358723340bf2b5db9c",
-    "url": "/techhelp/static/js/main.025892e5.chunk.js"
+    "revision": "0863504f96734ae749d1",
+    "url": "/techhelp/static/js/main.100be3ec.chunk.js"
   },
   {
     "revision": "e2dae7831e8e9a898bce",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fadf9cc2477fb8601eb1b420e14c8186",
     "url": "/techhelp/static/media/hosting.fadf9cc2.jfif"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/techhelp/static/media/logo.5d5d9eef.svg"
   },
   {
     "revision": "6d7f57192866b5d27158fe1d5ff00e60",
